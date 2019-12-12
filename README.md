@@ -39,7 +39,11 @@ http://localhost:8080/zemoga_portfolio_api/modify_user_info/<ID> donde el ID cor
 Es importante anotar, que la variable name será mapeada al campo title en la tabla portfolio de la base de datos de referencia
 
   
-  
+Evidencias
+blob:https://twitter.com/62e02a77-2cc2-43c7-a8c5-786981eed0d5
+blob:https://twitter.com/b0aedcf8-900a-4b1c-bd08-41ab8befe438
+blob:https://twitter.com/bd390aa6-6580-4e44-a0dd-f624ae4cae70
+
 
 
 
